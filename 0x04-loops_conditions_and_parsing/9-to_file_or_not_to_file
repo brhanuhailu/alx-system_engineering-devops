@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Checks file existence, emptiness, and regularity
+
+file="school"
+
+if [ ! -e "$file" ]; then
+	echo "$file" file does not exist
+	exit 0
+fi
+echo "$file" file exists
+
+if [ -s "$file" ]; then
+	echo "$file" file is not empty
+else
+	echo "$file" file is empty
+fi
+
+if [ -f "$file" ]; then
+	echo "$file" is a regular file
+fi
