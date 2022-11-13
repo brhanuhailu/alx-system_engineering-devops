@@ -20,3 +20,8 @@ Database sql server  is a relational database management system, or RDBMS, devel
 An application file is the term used to describe a file that a program puts on a computer after it gets installed
 
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
+Load Balancer refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.
+
+SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
+
+firewall is a network security device that monitors incoming and outgoing network traffic and permits or blocks data packets based on a set of security 
